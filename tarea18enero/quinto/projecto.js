@@ -12,10 +12,8 @@ const programmingBooks = [
       "The Rust Programming Language",
     ];
     
-    // Buscar el índice de "You Don’t Know JS"
     let indiceLibro = programmingBooks.indexOf("You Don't Know JS");
     
-    // Verificar si se encontró el libro y mostrar el resultado
     if (indiceLibro !== -1) {
       
    
