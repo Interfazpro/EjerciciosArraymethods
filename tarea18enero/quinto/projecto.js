@@ -10,8 +10,7 @@ const programmingBooks = [
       "Code Complete: A Practical Handbook of Software Constructi",
    "JavaScript: The Good Parts",
  "Clean Code: A Handbook of Agile Software Craftsmanship",
- "Code Complete: A Practical Handbook of Software Constructi
- "Design Patterns: Elements of Reusable Object-Oriented Soft
+ 
  "The Pragmatic Programmer: Your Journey to Mastery",
  "Eloquent JavaScript: A Modern Introduction to Programming"
  "You Don't Know JS",
@@ -35,18 +34,16 @@ const programmingBooks = [
  "Data Science for Business",
  "Artificial Intelligence: A Modern Approach",
  "Introduction to Algorithms",
- "Clean Architecture: A Craftsman's Guide to Software Struct
- "Domain-Driven Design: Tackling Complexity in the Heart of
- "Continuous Delivery: Reliable Software Releases through Bu
+ 
+
  "Refactoring: Improving the Design of Existing Code",
  "The Mythical Man-Month: Essays on Software Engineering",
  "DevOps Handbook",
  "Git Pro",
- "The Docker Book: Containerization is the New Virtualizatio
- "Site Reliability Engineering: How Google Runs Production S
- "The Phoenix Project: A Novel About IT, DevOps, and Helping
+ 
+
  "Accelerate: The Science of Lean Software and DevOps",
- "Code: The Hidden Language of Computer Hardware and Softwar
+
  "The C Programming Language",
  "Effective Python: 90 Specific Ways to Write Better Python"
  "Programming Rust",
