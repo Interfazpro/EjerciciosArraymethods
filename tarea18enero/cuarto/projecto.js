@@ -40,7 +40,6 @@ const programmingBooks = [
     
   true;
        
-  break; // No es necesario seguir buscando una vez que se ha encontrado el libro
     }
   }
   
